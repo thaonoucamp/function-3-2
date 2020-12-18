@@ -9,11 +9,22 @@
     factorialNum();
     function factorialNum() {
         let num = +prompt("Nhap so can tinh giai thua :");
-        let total = 0;
-        for (let i = 1; i <= num ; i++) {
-            total = num * i;
+        let str = '';
+        // Bien luu chuoi;
+        let total = 1;
+        for (let i = 1; i <= num; i++) {
+            total *= i;
+            }
+        for (let i = 1; i <= num; i++)
+        // Vong lap cong chuoi;
+        {
+            if(i == num) {
+                str += `${i}=`;
+        }else {
+                str += `${i}x`;
+            }
         }
-        alert('!'+total);
+        alert('!'+num +'='+ str + total);
     }
 </script>
 </body>
