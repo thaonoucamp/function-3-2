@@ -14,7 +14,6 @@
       <change afterPath="$PROJECT_DIR$/../bang-cuu-chuong/bang-cuu-chuong.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../caro-game/caro.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../caro-game/demo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai-1.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../function-3/bai-1.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../function-3/bai-2.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../function-3/bai-3.html" afterDir="false" />
@@ -97,6 +96,12 @@
       <change beforePath="$PROJECT_DIR$/../conditionnal-3/phuong-trinh-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../conditionnal-3/phuong-trinh-1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../d-y-l-me/d-y-l-m.html" beforeDir="false" afterPath="$PROJECT_DIR$/../d-y-l-me/d-y-l-m.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../do-you-love-me/do-you-love-me.html" beforeDir="false" afterPath="$PROJECT_DIR$/../do-you-love-me/do-you-love-me.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai-6.html" beforeDir="false" afterPath="$PROJECT_DIR$/bai-6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai-7.html" beforeDir="false" afterPath="$PROJECT_DIR$/bai-7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai-8.html" beforeDir="false" afterPath="$PROJECT_DIR$/bai-8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai-9.html" beforeDir="false" afterPath="$PROJECT_DIR$/bai-9.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../function1/calFunction.html" beforeDir="false" afterPath="$PROJECT_DIR$/../function1/calFunction.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../function1/checkPrime.html" beforeDir="false" afterPath="$PROJECT_DIR$/../function1/checkPrime.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../function1/convertTemperture.html" beforeDir="false" afterPath="$PROJECT_DIR$/../function1/convertTemperture.html" afterDir="false" />
@@ -134,7 +139,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1loTjPsvkDvuhX1z48y7zcZATya" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -159,6 +164,9 @@
       <option name="presentableId" value="Default" />
       <updated>1608262578825</updated>
       <workItem from="1608262579893" duration="8012000" />
+      <workItem from="1608451688984" duration="612000" />
+      <workItem from="1608452320330" duration="703000" />
+      <workItem from="1608453042798" duration="6704000" />
     </task>
     <servers />
   </component>

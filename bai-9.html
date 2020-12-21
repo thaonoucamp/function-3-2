@@ -5,6 +5,26 @@
     <title>Title</title>
 </head>
 <body>
-
+<script>
+    checkCharLoop();
+    function checkCharLoop() {
+        let arr = [1,2,3,4,5,6,7,8,9];
+        let count = 0;
+        let item = Math.floor(Math.random() * 10);
+        for (let i = 0; i < arr.length; i++) {
+            if (item == arr[i]) {
+                count++;
+            // }else {
+            //     return -1;
+            // }
+        }
+    }
+        arr.push(item);
+        console.log(count);
+        document.write(arr);
+        // let a = checkCharLoop();
+    // console.log(a);
+        }
+</script>
 </body>
 </html>

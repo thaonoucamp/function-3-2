@@ -6,7 +6,17 @@
 </head>
 <body>
 <script>
-    function
+    function checkIntNum() {
+         let num = Math.floor(Math.random() * (10 - (-10))) + (-10);
+        console.log(num);
+        if (num >= 0) {
+            return true;
+        }else {
+            return false;
+        }
+    }
+    let a = checkIntNum();
+    console.log(a);
 </script>
 </body>
 </html>

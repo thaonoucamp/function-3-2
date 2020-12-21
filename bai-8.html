@@ -5,6 +5,23 @@
     <title>Title</title>
 </head>
 <body>
-
+<script>
+    reverseArr();
+    function reverseArr() {
+        let arr = [];
+        let tem;
+        for (let i = 0; i < 10; i++) {
+            let item = Math.floor(Math.random() * 10);
+            arr.push(item);
+        }
+        document.write(arr);
+        for (let i = 0; i <= arr.length/2; i++) {
+            tem = arr[i];
+            arr[i] = arr[arr.length-i-1];
+            arr[arr.length-i-1] = tem;
+        }
+        console.log(arr);
+    }
+</script>
 </body>
 </html>
